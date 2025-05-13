@@ -4692,5 +4692,12 @@ input, select, textarea {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  color: white;
+  padding: 6em 3em;
+  color: #222222;
+}
+
+.post.featured h2,
+.post.featured p,
+.post.featured span {
+  color: #222222;
 }
