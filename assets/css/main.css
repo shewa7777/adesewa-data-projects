@@ -4687,17 +4687,9 @@ input, select, textarea {
 		}
 
 	}
-.post.featured {
+#intro {
   background-image: url('../images/wallpaper.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding: 6em 3em;
-  color: #222222;
-}
-
-.post.featured h2,
-.post.featured p,
-.post.featured span {
-  color: #222222;
 }
